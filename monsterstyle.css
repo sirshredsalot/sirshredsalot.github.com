@@ -1,0 +1,25 @@
+
+h1{
+     font-size: 6em;
+     font-family: arial, helvetica;
+     text-align: center;
+     color:white;
+     background:black;
+     border-style: double;
+     border-width: 7px;
+     border-color: red;
+}
+
+h2{
+   font-size: 2em;
+   font-family: arial, helvetica;
+   text-decoration: underline;
+   
+   
+}
+
+p{
+  font-size: 1em;
+  font-family: arial, helvetica;
+}
+   
