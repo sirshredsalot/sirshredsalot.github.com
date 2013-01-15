@@ -19,11 +19,38 @@ h2{
    font-size: 2em;
    font-family: arial, helvetica;
    text-align:center;
+   font-style: underline;
+   color:white;
+   background:black;
+   border-style:double;
+   border-width:7px;
+   border-color:red;
+   margin-top:0;
+   margin-bottom:0;
+   margin-right:8.8em;
+   margin-left:8.8em;
+   
 
    
    
    
 }
+h3{
+  font-size: 2em;
+  font-family: arial, helvetica;
+  text-align: center;
+  color: white;
+  background: black;
+  border-style: double;
+  border-width: 7px;
+  border-color: red;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 8.8em;
+  margin-left: 8.8em;
+  }
+  
+  
 
 p{
   font-size: 1em;
@@ -35,9 +62,13 @@ p{
 	 }
 	body{
 	     text-align: center;
+		
+		 }
 		 
-		  a{
-		    color:blue;
+a{
+		    font-size: 2em;
+			
+			
 			}
 			
 		  
