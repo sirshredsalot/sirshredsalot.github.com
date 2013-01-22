@@ -62,7 +62,9 @@ a{
 
 }
 body{
-     background:url(crab.GIF) ;
+     background:url(crab.GIF) no-repeat;
+	 background-size:cover;
+	 
 	 
 	 
 
