@@ -45,6 +45,8 @@ h2{
 	 
 body{
 	     text-align: center
+		 
+		 
 	  
 	
 		
@@ -52,6 +54,7 @@ body{
 		 }
 p {      font-size: 1em;
         font-family:arial, helvetica;
+		
 		 
 		}
 		 
@@ -61,7 +64,16 @@ a{
 
 
 }
+
 body{
+     background-image: url(mcori.JPG) ;
+	 background-repeat: no-repeat;
+	 background-position: center;
+	
+	}
+
+
+
      
 
 	 
